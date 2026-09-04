@@ -6,5 +6,4 @@ print("Login Feature Enabled")
 <<<<<<< HEAD
 print("I love TUPM!")
 =======
-print("I love Sir Madrigal")
 >>>>>>> simulation
