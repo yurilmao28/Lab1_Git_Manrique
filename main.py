@@ -3,4 +3,8 @@ print("Author: Yuri Seandrei B. Manrique")
 print("Student ID: TUPM-26-1137")
 print("Class Section: BSECE 1-C")
 print("Login Feature Enabled")
+<<<<<<< HEAD
 print("I love TUPM!")
+=======
+print("I love Sir Madrigal")
+>>>>>>> simulation
